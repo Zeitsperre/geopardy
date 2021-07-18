@@ -1,0 +1,18 @@
+cookietemple_version: '1.3.9 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: geopardy
+project_slug_no_hyphen: geopardy
+template_version: '2.0.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: Zeitsperre
+creator_github_username: Zeitsperre
+is_github_repo: false
+is_repo_private: false
+is_github_orga: false
+full_name: Trevor James Smith
+email: trevor_smith@live.com
+project_name: geopardy
+project_short_description: geopardy. A simple set of GIS operations. Built in Python.
+version: 0.1.0
+license: Affero
